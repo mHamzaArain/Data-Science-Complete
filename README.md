@@ -1,39 +1,39 @@
 # Data Science Complete
 
-+ 1. Python
-  - 1. Core concept
-  2. OOP & Pattern Designing
-  3. Libraries
-  4. Python packing
-3. Web scraping
-  1. Weather data scraping
-  2. Amazom book price
-  3. NBA Basket Ball Stats
-5. Api
-  1. Plagirism detector api
-  2. Image recognition api
-  3. Bank transactino api
-7. Probability, Statistics & Linear Algebra
-  1. Only material
-8. Advacned Exploratory Data Analysis
-9. Feature Engineerning
-10. Feature Selection
-11. Machine Learning
-  1. Supervised Learning
-  2. Unsupervised Learning
-  3. Reignforcement Learning
-  4. Association Rule Learning
-13. A/B Testing
-14. Deep Learning
-  1. Artificial Neural Network(ANN)
-  2. Convolutional Neural Network(CNN)
-  3. Recurrent Neural Network(RNN)
-  4. Generative Adversial Network(GAN)
-16. NLP
-17. Timeseries Analysis
-18. Computer vision
-19. Deep Reignforcement Learning
-  1. Q-Learning
-21. Optimization
-22. Docker & kubernetes
-23. Deployment
+1. Python
+  + Core concept
+  + OOP & Pattern Designing
+  + Libraries
+  + Python packing
+2. Web scraping
+  + Weather data scraping
+  + Amazom book price
+  + NBA Basket Ball Stats
+3. Api
+  + Plagirism detector api
+  + Image recognition api
+  + Bank transactino api
+4. Probability, Statistics & Linear Algebra
+  + Only material
+5. Advacned Exploratory Data Analysis
+6. Feature Engineerning
+7. Feature Selection
+8. Machine Learning
+  + Supervised Learning
+  + Unsupervised Learning
+  + Reignforcement Learning
+  + Association Rule Learning
+9. A/B Testing
+10. Deep Learning
+  + Artificial Neural Network(ANN)
+  + Convolutional Neural Network(CNN)
+  + Recurrent Neural Network(RNN)
+  + Generative Adversial Network(GAN)
+11. NLP
+12. Timeseries Analysis
+13. Computer vision
+14. Deep Reignforcement Learning
+  + Q-Learning
+15. Optimization
+16. Docker & kubernetes
+17. Deployment
