@@ -1,7 +1,7 @@
 # Data Science Complete
 
-1. Python
-  1. Core concept
++ 1. Python
+  - 1. Core concept
   2. OOP & Pattern Designing
   3. Libraries
   4. Python packing
