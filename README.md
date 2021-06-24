@@ -24,6 +24,8 @@
   * <a href="#sec4.2"> b. Unsupervised Learning </a>
   * <a href="#sec4.3"> c. Reignforcement Learning </a>
   * <a href="#sec4.4"> d. Association Rule Learning</a>
+  * <a href="#sec4.4"> Projects</a> 
+  * ( Flight Price Prediction )[ https://github.com/mHamzaArain/flight-price-fare-prediction#demo ]
 * <a href="#sec4">9. A/B Testingg</a>
 * <a href="#sec4">10. Deep Learning</a>
   * <a href="#sec4.1"> a. Artificial Neural Network(ANN)</a>
